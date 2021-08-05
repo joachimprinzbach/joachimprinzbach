@@ -6,3 +6,6 @@ You can reach me 📫 on [Twitter](https://twitter.com/Johaaachim).
 
 Cheers Joachim
 
+### Stats
+[![github stats](https://github-readme-stats.vercel.app/api?username=joachimprinzbach &show_icons=true&bg_color=ffffff00&text_color=595959)](https://github.com/anuraghazra/github-readme-stats)
+
